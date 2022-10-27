@@ -8,10 +8,11 @@ module.exports = {
       'montserrat': ['Montserrat', 'sans-serif'],
       'scpro': ['"Source Code Pro"', 'sans-serif'],
       'ubuntu': ['Ubuntu', 'sans-serif'],
+      'tw': ['"Titillium Web"', 'sans-serif'],
     },
     extend: {
       fontFamily: {
-        'sans': ['Poppins', 'ui-sans-serif', 'system-ui', '-apple-system', 'BlinkMacSystemFont', '"Helvetica Neue"', 'Arial', '"Noto Sans"', 'sans-serif', defaultTheme.fontFamily.sans],
+        'sans': ['Rokkit', 'ui-sans-serif', 'system-ui', '-apple-system', 'BlinkMacSystemFont', '"Helvetica Neue"', 'Arial', '"Noto Sans"', 'sans-serif', defaultTheme.fontFamily.sans],
       },
     },
   },

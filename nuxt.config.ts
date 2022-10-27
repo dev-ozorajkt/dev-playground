@@ -7,12 +7,12 @@ export default defineNuxtConfig({
     googleFonts: {
         preconnect: true,
         families: {
-          Roboto: true,
+          Rokkit: true,
           Poppins: true,
           Montserrat: true,
           'Source Code Pro': true,
-          Ubuntu: true,
-          Lato: [100, 300],
+          Ubuntu: [400, 500, 700],
+          'Titillium Web': [400, 600],
           Raleway: {
             wght: [100, 400],
             ital: [100]
