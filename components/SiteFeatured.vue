@@ -3,7 +3,7 @@
         <h2 class="text-4xl font-bold font-ubuntu text-center mb-12"><span
                 class="animate-rotate">&#10024;</span>Newly Added<span class="animate-rotate">&#10024;</span>
         </h2>
-        <div class="flex justify-center gap-6">
+        <div class="flex flex-wrap justify-center gap-6">
             <div class="w-[80%] md:w-1/3 bg-gradient-to-tr from-purple-400 to-indigo-800 rounded-lg min-h-[250px]">
                 <a href="#" class="text-4xl text-white font-ubuntu font-bold flex justify-center items-center h-full">
                     Intern Center

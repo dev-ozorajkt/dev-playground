@@ -4,7 +4,7 @@
             <Title>OzoraJKT</Title>
         </Head>
         <div>
-            <div class="hero-section py-16 relative px-4 lg:px-0">
+            <div class="hero-section pt-28 pb-16 relative px-4 lg:px-0">
                 <div class="hero-section-content max-w-7xl mx-auto relative z-10 bg-base-100/80 backdrop-blur-xl rounded-xl p-4 shadow flex items-center gap-12">
                     <div class="hero-img hidden md:block lg:w-[40%]">
                         <img src="/img/isometric.png" class="block w-full" />
