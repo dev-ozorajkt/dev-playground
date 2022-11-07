@@ -5,7 +5,7 @@
         </h2>
         <div class="flex flex-wrap justify-center gap-6">
             <div class="w-[80%] md:w-1/3 bg-gradient-to-tr from-purple-400 to-indigo-800 rounded-lg min-h-[250px]">
-                <a href="#" class="text-4xl text-white font-ubuntu font-bold flex justify-center items-center h-full">
+                <a href="https://interns-ozorajkt.github.io/" class="text-4xl text-white font-ubuntu font-bold flex justify-center items-center h-full">
                     Intern Center
                 </a>
             </div>
