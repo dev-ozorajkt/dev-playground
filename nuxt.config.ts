@@ -1,6 +1,10 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
-    modules: ['@nuxtjs/tailwindcss', '@nuxtjs/color-mode', '@nuxtjs/google-fonts'],
+    modules: ['@nuxtjs/tailwindcss', '@nuxtjs/color-mode', '@nuxtjs/google-fonts', '@nuxtjs/sanity'],
+    sanity: {
+      projectId: "srr4yxfg",
+      apiVersion: '2022-11-23'
+    },
     colorMode: { 
         classSuffix: ''
     },

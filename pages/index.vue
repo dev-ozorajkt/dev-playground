@@ -35,11 +35,15 @@
                 </div>            
             </div>
         </div>
-        <!-- Featured -->
+        <!-- Whats New -->
         <div class="max-w-7xl mx-auto">
             <SiteFeatured />
         </div>
 
+        <!-- Projects -->
+        <div class="max-w-7xl mx-auto">
+            <SiteProject />
+        </div>
     </div>
 </template>
 <style scoped>
